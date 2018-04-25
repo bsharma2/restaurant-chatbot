@@ -1,5 +1,3 @@
-#https://chatbotslife.com/text-classification-using-algorithms-e4d50dcba45
-
 import nltk
 from nltk.stem.lancaster import LancasterStemmer
 from nltk.corpus import stopwords
